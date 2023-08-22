@@ -5,7 +5,6 @@ go 1.20
 require golang.org/x/net v0.14.0
 
 require (
-	github.com/IvMaslov/qtls v0.0.0-20230819130943-c50aa826b0cb // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
@@ -17,6 +16,7 @@ require (
 )
 
 require (
+	github.com/IvMaslov/qtls v0.0.0-20230819130943-c50aa826b0cb
 	github.com/francoispqt/gojay v1.2.13
 	github.com/golang/mock v1.6.0
 	github.com/onsi/ginkgo/v2 v2.11.0
